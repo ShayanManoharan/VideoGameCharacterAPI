@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4XVhTRvcjHE=",
+  "success": true,
+  "projectFilePath": "/Users/shayansmacbook/VideoGameCharacterAPI/VideoGameCharacterAPI.csproj",
+  "expectedPackageFiles": [
+    "/Users/shayansmacbook/.nuget/packages/microsoft.aspnetcore.openapi/10.0.8/microsoft.aspnetcore.openapi.10.0.8.nupkg.sha512",
+    "/Users/shayansmacbook/.nuget/packages/microsoft.openapi/2.0.0/microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
